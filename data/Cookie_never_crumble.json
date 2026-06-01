@@ -6,9 +6,13 @@
     "verifier": "Tyleristrying",
     "verification": "https://youtu.be/rhlR2u0jTtw",
     "percentToQualify": 100,
-    "password": "Copyable",
+    "requirements": "Any FPS, CBF Allowed",
     "records": [
         {
+            "user": "Tyleristrying",
+            "link": "https://youtu.be/rhlR2u0jTtw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
