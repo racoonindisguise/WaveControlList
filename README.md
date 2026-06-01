@@ -1,48 +1,90 @@
-# Welcome to the Geometry Dash Shitty List template!
+# WCL (Wave Control List)
+----
+About
+----
 
-# FAQ
+The Wave Control List ranks levels based mainly on:
 
----
+- Precision
+- Control
+- Consistency
+- Overall difficulty
 
-### Website FAQ
+--
+How Levels Are Ranked
+--
 
-Can I use the Shitty List template?
+Precision
+- Tight gameplay
+- Difficult timings
+- Small margins for error
+- Accurate inputs
 
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
+Control
+- Difficult wave movement
+- Consistent wave control
+- Technical gameplay
+- Long control-based sections
 
-The website isn't loading! What can I do?
+Levels are placed based on a combination of precision, control, and overall difficulty.
 
-- Since no webhost is perfect, downtime is expected. You can either wait till the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
+--
+Player Rules
+--
 
----
+- All records must be legitimate.
+- No hacks, macros, TAS, replay bots, noclip, or speedhacks.
+- Video proof is required along with a click indicator.
+- All level requirements must be followed.
 
-### Usage FAQ
+--
+Creator Rules
+--
 
-How do I add levels to the list?
+- Levels must focus primarily on wave gameplay.
+- Levels verified to be put on the list
+- Levels must not rely heavily on luck.
+- Levels must not contain major bugs.
 
-- Use one of the provided template json files and modify the details to fill in the details
-  accordingly. If there are any errors, the site will not load, or you will get a pop up
-  saying which level isn't loading.
+--
+Level Requirements
+--
 
-How do I add records to the list?
+Every level may have its own requirements.
+- Examples:
+- No CBF
+- 60 FPS only
+- No Physics Bypass
+- Specific game version
+- Percentage requirement for record
 
-- Again, use one of the given templates, and modify the details accordingly. For mobile
-  records, you can add the code `mobile: true` within the braces. Make sure there are no
-  excess or missing commas, or the website might not load properly.
+If a level has requirements, they must be followed for a record to be accepted.
 
-What are some common reasons for the website not loading?
+--
+Record Requirements
+--
+- Full completion video required.
+- Completion must be legitimate.
+- Completion must follow all level requirements.
 
-- The most common cause is missing commas and inverted commas, or extra commas at the end of
-  the last lines within list entries. A good way to find the error-causing lines can be found
-  by using `Inspect Element` and going to the `Console` tab.
+--
+Removal Reasons
+--
 
----
+Records
 
-## More Coming Soon!
+- Cheating discovered.
+- Invalid proof.
+- Level requirements not followed.
 
-## Repo Maintainers:
 
-- Prometheus
-- Emonadeo
+Levels
+
+- Verification cheated
+- Major bugs discovered.
+
+--
+Staff/owner
+--
+
+Staff have the right to remove levels/records if rules were broken in it or it doesnt meet the WCL standards, thanks!
